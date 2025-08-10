@@ -1,2 +1,3 @@
 # NLP
-Small Practicals 
+Practicals using NLP
+
